@@ -1,0 +1,6 @@
+@echo off
+echo Starting Chrome with Voice Control support...
+echo.
+echo Launching YouTube in a separate debugging window...
+start "" "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 "https://www.youtube.com"
+exit

@@ -1,0 +1,6 @@
+vosk
+sounddevice
+websockets
+pynput
+pystray
+Pillow
